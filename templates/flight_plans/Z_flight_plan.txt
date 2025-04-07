@@ -1,0 +1,9 @@
+--[Flight Information]--
+Flight Type: VFR to IFR (Z Flight Plan)  
+Route: [Departure] DCT [Waypoint] DCT [Arrival]  
+Cruise Altitude: [VFR Altitude] → FL[Altitude] (IFR)  
+Cruise Speed: [Knots GS]  
+Weather Conditions: [Clear/VFR] → [Transition to IFR]  
+ATC Clearance: [Received at switch point]  
+Approach: [ILS/RNAV/Visual RWY X]  
+Switch Point: [Location where VFR ends, IFR starts]  

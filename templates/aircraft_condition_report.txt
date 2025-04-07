@@ -1,0 +1,45 @@
+--[Aircraft Condition Report]--
+Report Time (Zulu): [HH:MMZ]
+Report Type: [Routine/Urgent/Post-Flight/Pre-Flight]
+Aircraft Type: [Boeing 747-400 / A320neo / etc.]
+Tail Number: [N78VQ]
+Current Location: [Airport ICAO / Hangar #]
+Flight Hours Since Last Inspection: [XX hrs]
+Total Aircraft Flight Hours: [XX,XXX hrs]
+
+--[Exterior Inspection]--
+Fuselage: [No Damage / Minor Scratches / Structural Issue]
+Wings: [No Damage / Minor Dents / Major Damage]
+Landing Gear: [Normal / Wear Observed / Requires Maintenance]
+Flaps & Slats: [Operational / Malfunction / Damage Found]
+Engines: [Normal / Oil Leak / Unusual Noises]
+APU (Auxiliary Power Unit): [Operational / Malfunction / Needs Repair]
+
+--[Interior Inspection]--
+Cabin Systems: [Functional / Issues Reported]
+Cockpit Instruments: [All Green / Faulty Readings on X]
+Hydraulics: [Normal / Leak Found]
+Avionics: [All Systems Normal / Software Update Needed]
+Oxygen System: [Operational / Low Pressure]
+Pressurization: [Functional / Cabin Pressure Irregularities]
+
+--[Fuel & Electrical]--
+Fuel Load: [XX%]
+Fuel Leak: [None / Minor / Major - Grounding Aircraft]
+Electrical Systems: [Normal / Malfunction on Bus X]
+Battery Voltage: [Normal / Low / Replacement Needed]
+
+--[Flight Control Systems]--
+Autopilot: [Operational / Malfunctioning]
+Rudder & Ailerons: [Responsive / Non-Responsive]
+Trim System: [Normal / Requires Adjustment]
+Weather Radar: [Functional / Inoperative]
+
+--[Overall Aircraft Status]--
+Status: [Airworthy / Restricted Operations / Grounded]
+Required Maintenance Actions: [List any repairs needed]
+Estimated Downtime: [XX Hours / Days]
+
+--[Inspector's Signature]--
+Inspector Name: [Full Name]
+Rank/ID: [Rank or Maintenance ID]

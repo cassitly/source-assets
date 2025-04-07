@@ -1,0 +1,73 @@
+------------------------------------------------------------------------------------------------------
+
+      (Flight #[Insert Number])
+--[Personal Information]--
+
+RBLX: [Roblox Username]
+DSCD: [Discord Username]
+Callsign: [e.g., N78VQ]
+Airframe: [e.g., Boeing 747-400]
+Tailnumber: [e.g., N78VQ]
+Rank: [e.g., Flight Engineer]
+
+--[Departure Information]--
+
+Departure: [Airport Name + ICAO] [e.g., Kitesboro International Airport [KKBI]]
+RWY: [Runway Used, e.g., 11-29]
+GWY: [Gateway, e.g., D]
+EWF: [Estimated Wind Factor: Direction° / Speed]
+TOPB, In game: [In-game Time, e.g., 09:30]
+      Real Time: [Real World Time, e.g., 15:16]
+Fuel load: [e.g., 44.8%]
+
+--[IFR Routes]--
+
+Route: →[FIX1]→[FIX2]→...→[DEST]
+Cruise Altitude: [e.g., FL250]
+Cruise Speed: [e.g., 490 Knots GS]
+SID (Standard Instrument Departure): [e.g., REEBO]
+STAR (Standard Terminal Arrival Route): [e.g., DEST]
+Approach: [e.g., VFR RWY 07L at Tikaranto International Airport [CTIK]]
+Alternate Airport: [e.g., Clarence International Airport [KCIA]]
+ATC Clearance: [e.g., YES / NO / null]
+
+--[Flight Information]--
+
+ETOF: [Estimated Time of Flight, e.g., 15.83 Minutes]
+RTOF: [Real Time of Flight, if different or applicable]
+Distance: [e.g., 142.91 nm]
+PSGR Load: [Passenger Load, e.g., 54x]
+IFR Flight plan: [YES / NO]
+Ground Refuel: [YES / NO]
+
+--[Deviation / Diversion Report]--  
+(Only if applicable)
+
+Reason for Deviation / Diversion: [e.g., Low Fuel Emergency]
+- Fuel load at deviation point: [%]
+- Flight Path Deviations: [e.g., Diverted to Clarence International Airport [KCIA]]
+- Estimated Remaining Fuel: [Minutes of flight time remaining]
+- Deviation Began: [HH:MMZ]
+- Deviation Ended: [HH:MMZ]
+- New Route (for Diversion): →[FIX]→...→[DEST]
+- Diversion Distance: [e.g., 29.2 nm]
+- Reason for Diversion: [Detailed Explanation]
+
+ATC Interaction:
+- ATC was notified of [situation] at [HH:MMZ], and route alteration was [approved/denied].
+- Clearance to divert to [Alternate Airport] was [granted/denied].
+
+Weather at Alternate Airport:
+- Winds: [Direction° at Speed]
+- Visibility: [e.g., 10+ miles]
+- Ceiling: [e.g., 5000 ft]
+- Approach: [e.g., VFR RWY 07L]
+
+Outcome:
+- [e.g., Safe landing at KCIA with 3.2% fuel remaining.]
+
+Requesting payment: [YES / NO]
+
+------------------------------------------------------------------------------------------------------
+**Flight No.[#]** Departure Photograph:
+[Attach Image Here]

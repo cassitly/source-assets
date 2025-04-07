@@ -1,0 +1,55 @@
+--[Incident Log Report]--
+**Report Time (Zulu):** [HH:MMZ]  
+**Incident Type:** [Crash / Hard Landing / System Failure / Mid-Air Collision]  
+**Aircraft Type:** [Boeing 747-400 / A320neo / etc.]  
+**Tail Number:** [N78VQ]  
+**Pilot in Command (PIC):** [RBLX Username]  
+**Rank:** [Cadet / Captain / etc.]  
+**Flight Number:** [Flight 2]  
+**Callsign:** [N78VQ]  
+
+### **Incident Details**  
+**Date:** [DD/MM/YYYY]  
+**Location:** [Nearest Airport / Latitude-Longitude]  
+**Phase of Flight:** [Taxi / Takeoff / Climb / Cruise / Descent / Landing]  
+**Altitude:** [XXX ft]  
+**Airspeed:** [XX knots]  
+**Weather Conditions:** [Clear / Rain / Snow / Turbulence / Wind Shear]  
+**Visibility:** [XX SM/KM]  
+**Wind Data:** [XXX° @ XX kts]  
+
+### **Crash Description**  
+**Summary of Event:**  
+[Brief description of how the crash occurred. Include pilot actions, system malfunctions, or external factors.]  
+
+**Cause of Incident:**  
+- [ ] Pilot Error  
+- [ ] System Failure  
+- [ ] Fuel Starvation  
+- [ ] Mid-Air Collision  
+- [ ] Severe Weather  
+- [ ] ATC Miscommunication  
+- [ ] Other (Specify)  
+
+**Pilot Actions Taken:**  
+[List actions the pilot took to recover or mitigate damage.]  
+
+### **Post-Crash Assessment**  
+**Aircraft Damage:**  
+- [ ] Minor (Repairable)  
+- [ ] Moderate (Major Repairs Required)  
+- [ ] Severe (Total Loss)  
+
+**Injury Report:**  
+- Crew: [None / Minor / Serious / Fatal]  
+- Passengers: [None / Minor / Serious / Fatal]  
+
+**Response Actions:**  
+[Search & rescue, emergency services, recovery process, debriefing, etc.]  
+
+### **Recommendations & Notes**  
+[Suggestions to prevent future incidents, training improvements, or system checks needed.]  
+
+--[Incident Report Filed By]--  
+**Reporter Name:** [Full Name]  
+**Rank/ID:** [ATC / Supervisor / Witness]  

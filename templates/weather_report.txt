@@ -1,0 +1,15 @@
+--[Weather Flight Report]--
+Report Time (Zulu): [HH:MMZ]
+Report Type: [Routine/Urgent]
+Position: [Lat/Lon or Nearest Waypoint/Airport ICAO]
+Altitude: [FLxxx or ft]
+Airspeed: [Knots GS]
+Turbulence: [None/Light/Moderate/Severe]
+Icing: [None/Light/Moderate/Severe]
+Winds Aloft: [XXX° @ XX kts]
+Temperature: [XX°C] (ISA Deviation: ±X°C)
+Visibility: [XX SM/KM]
+Cloud Cover: [Clear/Scattered/Broken/Overcast at XX ft]
+Precipitation: [None/Rain/Snow/Thunderstorms]
+Flight Conditions: [VFR/MVFR/IFR]
+Additional Notes: [Any other important weather observations]

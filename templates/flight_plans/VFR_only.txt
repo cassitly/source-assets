@@ -1,0 +1,8 @@
+--[Flight Information]--
+Flight Type: VFR  
+Route: [Departure] DCT [Waypoint] DCT [Arrival]  
+Cruise Altitude: [Altitude] ft  
+Cruise Speed: [Knots GS]  
+Weather Conditions: [Clear/Scattered Clouds/etc.]  
+Flight Visibility: [Miles/km]  
+VFR Waypoints: [Waypoints used for navigation]  

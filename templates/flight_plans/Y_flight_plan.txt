@@ -1,0 +1,9 @@
+--[Flight Information]--
+Flight Type: IFR to VFR (Y Flight Plan)  
+Route: [Departure] DCT [Waypoint] DCT [Arrival]  
+Cruise Altitude: FL[Altitude] (IFR) → [VFR Altitude]  
+Cruise Speed: [Mach/Knots GS]  
+SID: [Departure Procedure]  
+STAR: [Arrival Procedure]  
+Approach: [Visual Approach]  
+Switch Point: [Location where IFR ends, VFR starts]  

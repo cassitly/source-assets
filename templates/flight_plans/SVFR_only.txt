@@ -1,0 +1,10 @@
+--[Flight Information]--
+Flight Type: SVFR  
+Route: [Departure] DCT [Waypoint] DCT [Arrival]  
+Cruise Altitude: [Altitude] ft  
+Cruise Speed: [Knots GS]  
+Clearance Received: [Yes/No]  
+Controlled Airspace Entry: [Tower Authorization Received]  
+Minimum Visibility: [1-3 Miles]  
+Flight Conditions: [Marginal/Low Clouds/Fog]  
+Alternate Airport: [ICAO]  

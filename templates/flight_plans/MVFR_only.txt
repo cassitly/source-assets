@@ -1,0 +1,9 @@
+--[Flight Information]--
+Flight Type: MVFR  
+Route: [Departure] DCT [Waypoint] DCT [Arrival]  
+Cruise Altitude: [Altitude] ft  
+Cruise Speed: [Knots GS]  
+Weather Conditions: [Overcast/Fog/etc.]  
+Minimum Visibility: [3-5 Miles]  
+Cloud Cover: [Broken/Overcast at X feet]  
+Precautionary Plan: [Flight diversion, alternate landing]  
